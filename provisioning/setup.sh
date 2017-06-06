@@ -1,2 +1,2 @@
-echo "--> Installing node/npm in here boy"
-sudo yum install nodejs npm --enablerepo=epel -y
+echo "--> give me git at least..."
+sudo yum install git -y
